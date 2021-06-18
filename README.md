@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesus Flores
-- 👀 I’m interested in Computer vision, and AI
+- 👀 I’m interested in Computer vision, and Machine Learning
 - 🌱 I’m currently learning Deep Learning with PyTorch
 
 <!---
