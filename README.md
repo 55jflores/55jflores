@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesus Flores
-- 👀 I’m interested in any kind of software development, however my most favorite areas are Computer vision, Machine Learning and Deep Learning
+- 👀 I’m interested in any kind of software development, however my most favorite areas are Computer Vision, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning 
 
 <!---
