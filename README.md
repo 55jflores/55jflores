@@ -3,7 +3,8 @@
 - I have done iOS, Web (both front and back-end), Game development, Arduino, Raspberry Pi and API development apart from Deep Learning,Machine learning and Computer Vision
 - 🌱 I’m currently learning Rust and React
 
-[jflores_resume.pdf](https://github.com/55jflores/55jflores/files/10773070/jflores_resume.pdf)
+Download my resume:
+[jflores_resume.docx](https://github.com/55jflores/55jflores/files/10773077/jflores_resume.docx)
 
 <!---
 55jflores/55jflores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
