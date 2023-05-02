@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jesus Flores
 - 👀 I’m interested in any kind of software development, however my most favorite areas are Computer Vision and Machine Learning 
 - I have done iOS, Web (both front and back-end), Game development, Arduino, Raspberry Pi and API development apart from Deep Learning,Machine learning and Computer Vision
-- 🌱 I’m currently learning Rust and React
+- 🌱 I’m currently learning NextJS and TypeScript
 
 Download my resume:
 
