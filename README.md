@@ -17,8 +17,8 @@ I build **data-driven applications** that collect, process, and analyze real-wor
 
 ## 🚀 Featured Projects
 
-### 📈 Health & Fitness Analytics App
-- Built a **data-driven iOS app** using HealthKit to track and analyze user activity  
+### 📈 Health & Fitness Analytics App (In Progress)
+- Building a **data-driven iOS app** using HealthKit to track and analyze user activity  
 - Visualized trends with **charts, heatmaps, and performance tracking**  
 - Developed a **FastAPI backend** for data processing and API delivery  
 - Integrated **AI-generated insights** for personalized user feedback  
@@ -28,7 +28,7 @@ I build **data-driven applications** that collect, process, and analyze real-wor
 ---
 
 ### 🛒 Car Part Selling Platform (In Progress)
-- Developed a **FastAPI backend** for image moderation  
+- Developing a **FastAPI backend** for image and text moderation  
 - Applied **computer vision models** for content classification  
 - Designing scalable pipelines for **image + text analysis**
 
