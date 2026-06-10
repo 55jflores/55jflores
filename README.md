@@ -60,7 +60,7 @@ iOS • Vercel • Railway
 ## 📫 Connect With Me
 - Email: jesus.flores1008@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jesusflores55/
-- Download my Resume: [jflores_resume.pdf](https://github.com/user-attachments/files/26987142/jflores_resume.pdf)
+- View my Resume: https://55jflores.github.io/resume/
 - GitHub: https://github.com/55jflores  
 
 ---
