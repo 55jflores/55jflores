@@ -17,13 +17,23 @@ I build **data-driven applications** that collect, process, and analyze real-wor
 
 ## 🚀 Featured Projects
 
-### 📈 Health & Fitness Analytics App (In Progress)
-- Building a **data-driven iOS app** using HealthKit to track and analyze user activity  
+### 📈 Health & Fitness Analytics App
+- Built a **data-driven iOS app** using HealthKit to track and analyze user activity  
 - Visualized trends with **charts, heatmaps, and performance tracking**  
 - Developed a **FastAPI backend** for data processing and API delivery  
 - Integrated **AI-generated insights** for personalized user feedback  
 - Implemented **pose estimation (computer vision)** for movement analysis  
 - Streamed real-time insights using **Server-Sent Events (SSE)**  
+
+---
+
+### 🇻🇦 Catholic Companion App (In Progress)
+- Building **Blissful Catholic**, an AI-powered spiritual companion iOS app for prayer and faith formation  
+- Architected with **SwiftUI/MVVM** and **SwiftData** for local persistence, with **CloudKit** for cross-device sync  
+- Built a unified **Next.js backend** on Vercel serving as the API layer and future web companion  
+- Designed **liturgical season-aware** content for theologically precise, context-sensitive guidance  
+- Integrated **Supabase** for authentication and **StoreKit 2 + RevenueCat** for subscription monetization  
+- Currently in **TestFlight**, differentiated from existing apps through genuine AI-driven personalization
 
 ---
 
