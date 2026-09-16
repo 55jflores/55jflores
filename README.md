@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Jesus Flores
 
-💡 Data-focused Software Engineer with a background in Computer Science, specializing in **data analysis, machine learning, and full-stack development**.
-
-I build **data-driven applications** that collect, process, and analyze real-world data, and turn it into actionable insights through intelligent systems.
+💡 Software Engineer with a background in Computer Science, specializing in **data analysis, machine learning, and full-stack development**.
 
 ---
 
